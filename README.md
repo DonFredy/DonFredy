@@ -16,7 +16,7 @@
 
 
 ### Connect with me
-[LinkedIn](www.linkedin.com/in/fredy-nguimeya-donfack-3547b5318) • [My Scrimba Profile](https://scrimba.com/@DonFredy) • [My Favorite Scrimba Course](https://scrimba.com/command-line-basics-c08b87ogl0) • [I Built This on Scrimba](https://fred-pass-gen.netlify.app/) 
+[LinkedIn](https://www.linkedin.com/in/fredy-nguimeya-donfack-3547b5318/) • [My Scrimba Profile](https://scrimba.com/@DonFredy) • [My Favorite Scrimba Course](https://scrimba.com/command-line-basics-c08b87ogl0) • [I Built This on Scrimba](https://fred-pass-gen.netlify.app/) 
 
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4a562e)
